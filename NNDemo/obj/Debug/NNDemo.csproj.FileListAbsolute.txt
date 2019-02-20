@@ -1,0 +1,7 @@
+C:\Users\daniel.flores\source\repos\NNDemo\NNDemo\bin\Debug\NNDemo.exe.config
+C:\Users\daniel.flores\source\repos\NNDemo\NNDemo\bin\Debug\NNDemo.exe
+C:\Users\daniel.flores\source\repos\NNDemo\NNDemo\bin\Debug\NNDemo.pdb
+C:\Users\daniel.flores\source\repos\NNDemo\NNDemo\obj\Debug\NNDemo.csprojAssemblyReference.cache
+C:\Users\daniel.flores\source\repos\NNDemo\NNDemo\obj\Debug\NNDemo.csproj.CoreCompileInputs.cache
+C:\Users\daniel.flores\source\repos\NNDemo\NNDemo\obj\Debug\NNDemo.exe
+C:\Users\daniel.flores\source\repos\NNDemo\NNDemo\obj\Debug\NNDemo.pdb
